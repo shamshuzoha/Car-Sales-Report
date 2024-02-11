@@ -1,2 +1,5 @@
 # Car-Sales-Report
-"Data enthusiast skilled in report preparation using Excel, Mysql and Power BI. Check out my GitHub for hands-on examples showcasing data analysis, visualization, and reporting expertise. Eager to contribute and collaborate on data-driven projects."
+The analysis includes the following key insights:
+* best selling car by seats,used, fueltype, brand
+  
+  Friends, I am learning, if you find something wrong in this then let me know. I will correct him and learn better
